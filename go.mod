@@ -106,6 +106,7 @@ require (
 	github.com/klauspost/compress v1.9.3-0.20191122130757-c099ac9f21dd // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/lib/pq v1.1.2-0.20190507191818-2ff3cb3adc01
+	github.com/lionsoul2014/ip2region v2.1.0-release+incompatible
 	github.com/magefile/mage v1.9.0
 	github.com/mailru/easyjson v0.7.1 // indirect
 	github.com/mattn/go-colorable v0.0.8
